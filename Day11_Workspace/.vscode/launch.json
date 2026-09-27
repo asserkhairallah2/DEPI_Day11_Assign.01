@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "TaskApp",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/TaskApp/bin/Debug/net5.0/TaskApp.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}
